@@ -1,6 +1,6 @@
 # RBAC Admin Dashboard
 
-A Role-Based Access Control (RBAC) admin dashboard built with React and Tailwind CSS.
+--A Role-Based Access Control (RBAC) admin dashboard built with React and Tailwind CSS.
 
 ## Features
 
